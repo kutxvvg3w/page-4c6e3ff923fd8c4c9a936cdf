@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://web.guoguolv.cn/sitemap.xml

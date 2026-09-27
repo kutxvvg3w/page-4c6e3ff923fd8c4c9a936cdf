@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "6bca6b3803d30674905d0909",
+  "owner": "kutxvvg3w",
+  "repo": "page-4c6e3ff923fd8c4c9a936cdf",
+  "title": "魔戒",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4c6e3ff923fd8c4c9a936cdf",
+      "a": "魔戒",
+      "b": "",
+      "entity": "魔戒",
+      "brand": "魔戒",
+      "separator": "",
+      "path": "index.html",
+      "hash": "5648eb6c13ec933ff7ad13d1b2eda64ecec158f0b0aa1c140a825d8893f35478",
+      "content": {
+        "keyword1": "魔戒",
+        "keyword2": "",
+        "primary_entity": "魔戒",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "魔戒VPN为您提供稳定高速的网络加速服务，解锁全球流媒体内容，优化游戏与办公体验。立即体验专业配置流程。",
+          "AI_DESCRIPTION": "魔戒VPN为您提供稳定高速的网络加速服务，解锁全球流媒体内容，优化游戏与办公体验。立即体验专业配置流程。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --primary: #0A2540;\n            --accent: #00BFFF;\n            --text: #FFFFFF;\n            --light: #E0F7FF;\n        }\n        * {\n            margin: 0;\n            padding: 0;\n            box-sizing: border-box;\n        }\n        body {\n            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\n            background: var(--primary);\n            color: var(--text);\n            line-height: 1.6;\n        }\n        h1 {\n            font-size: 3rem;\n            color: var(--accent);\n        }\n        h2 {\n            font-size: 2rem;\n            margin: 2rem 0 1rem;\n            color: var(--accent);\n        }\n        p {\n            margin-bottom: 1rem;\n            font-size: 1.1rem;\n        }\n        nav {\n            background: rgba(10, 37, 64, 0.95);\n            padding: 1rem 5%;\n            position: sticky;\n            top: 0;\n            z-index: 100;\n        }\n        nav ul {\n            list-style: none;\n            display: flex;\n            justify-content: center;\n            gap: 2rem;\n            flex-wrap: wrap;\n        }\n        nav a {\n            color: var(--text);\n            text-decoration: none;\n            font-size: 1.1rem;\n            transition: color 0.3s;\n        }\n        nav a:hover {\n            color: var(--accent);\n        }\n        header {\n            padding: 5rem 5% 3rem;\n            text-align: center;\n            background: linear-gradient(135deg, #0A2540, #001F3F);\n        }\n        .hero-content {\n            max-width: 800px;\n            margin: 0 auto;\n        }\n        .hero-content h1 {\n            font-size: 4rem;\n            margin-bottom: 1rem;\n        }\n        a.cta {\n            background: var(--accent);\n            color: var(--primary);\n            border: none;\n            padding: 1rem 2rem;\n            font-size: 1.2rem;\n            border-radius: 50px;\n            cursor: pointer;\n            margin-top: 2rem;\n            display: inline-block;\n            text-decoration: none;\n        }\n        a.cta:hover {\n            background: #00E5FF;\n        }\n        section {\n            padding: 4rem 5%;\n            max-width: 1200px;\n            margin: 0 auto;\n        }\n        .intro p {\n            max-width: 800px;\n            margin: 0 auto;\n        }\n        ul {\n            list-style: none;\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\n            gap: 1.5rem;\n        }\n        li {\n            background: rgba(255,255,255,0.05);\n            padding: 1.5rem;\n            border-radius: 10px;\n            border: 1px solid var(--accent);\n        }\n        details {\n            background: rgba(255,255,255,0.05);\n            margin-bottom: 1rem;\n            border-radius: 8px;\n            padding: 1rem;\n        }\n        summary {\n            font-weight: bold;\n            cursor: pointer;\n            list-style: none;\n        }\n        summary::marker {\n            content: \"▶ \";\n        }\n        @media (max-width: 768px) {\n            h1 {\n                font-size: 2.5rem;\n            }\n            nav ul {\n                gap: 1rem;\n            }\n            section {\n                padding: 3rem 3%;\n            }\n        }\n    </style>\n\n\n    <nav>\n        <ul>\n            <li><a href=\"#intro\">品牌简介</a></li>\n            <li><a href=\"#scenarios\">使用场景</a></li>\n            <li><a href=\"#config\">配置流程</a></li>\n            <li><a href=\"#plans\">套餐选择</a></li>\n            <li><a href=\"#faq\">常见问题</a></li>\n        </ul>\n    </nav>\n    <header>\n        <div class=\"hero-content\">\n            <h1>魔戒 VPN</h1>\n            <h2>网络加速专家</h2>\n            <p>稳定 · 高速 · 全球</p>\n            <a href=\"#plans\" class=\"cta\">立即查看套餐</a>\n        </div>\n    </header>\n    <main>\n        <section id=\"intro\">\n            <h2>品牌简介</h2>\n            <div class=\"intro\">\n                <p>魔戒VPN致力于为全球用户提供优质的网络加速服务。我们通过先进的网络技术，帮助用户突破地理限制，享受流畅的高速上网体验。</p>\n                <p>无论您是日常上网、游戏玩家还是企业用户，魔戒VPN都能为您带来可靠的支持。</p>\n            </div>\n        </section>\n        <section id=\"scenarios\">\n            <h2>使用场景</h2>\n            <ul>\n                <li>全球流媒体平台解锁，如Netflix、YouTube等</li>\n                <li>在线游戏加速，降低延迟</li>\n                <li>远程办公与文件传输</li>\n                <li>海外留学与商务出差访问</li>\n                <li>多设备家庭网络共享</li>\n            </ul>\n        </section>\n        <section id=\"config\">\n            <h2>配置流程</h2>\n            <ol>\n                <li>访问官网下载官方客户端</li>\n                <li>注册并登录账号</li>\n                <li>选择合适的加速节点</li>\n                <li>配置IPLC专线以优化游戏体验</li>\n                <li>一键连接，享受加速服务</li>\n            </ol>\n            <p>详细步骤请参考我们的帮助中心。</p>\n        </section>\n        <section id=\"plans\">\n            {{PLANS_HTML}}\n        </section>\n        <section id=\"faq\">\n            <h2>常见问题</h2>\n            <details>\n                <summary>魔戒VPN如何开始使用？</summary>\n                <p>只需访问我们的官网，下载并安装客户端，然后按照注册流程完成账号创建，即可开始使用。</p>\n            </details>\n            <details>\n                <summary>魔戒VPN支持哪些流量包？</summary>\n                <p>我们提供多种流量包供您选择。</p>\n            </details>\n            <details>\n                <summary>魔戒VPN支持几台设备同时在线？</summary>\n                <p>根据套餐版本不同，支持多台设备同时在线。</p>\n            </details>\n            <details>\n                <summary>魔戒VPN如何解锁流媒体？</summary>\n                <p>我们提供全节点原生流媒体解锁，自动匹配最佳线路。</p>\n            </details>\n            <details>\n                <summary>魔戒VPN的客服支持如何？</summary>\n                <p>旗舰版及以上提供优先工单支持，专业技术团队随时为您服务。</p>\n            </details>\n        </section>\n        <section id=\"clients\">\n            {{CLIENTS_HTML}}\n        </section>\n    </main>\n\n",
+          "hash": "a24e51d940a6ba8eb855e439183934ec517208db728cc2c8e1d7f49ad35a9303",
+          "seo": {
+            "title": "魔戒VPN | 高速稳定网络加速器 | 全球节点",
+            "keywords": "魔戒VPN,魔戒加速器,机场,VPN,客户端下载,网络加速器,流媒体解锁",
+            "description": "魔戒VPN为您提供稳定高速的网络加速服务，解锁全球流媒体内容，优化游戏与办公体验。立即体验专业配置流程。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "guoguolv.cn",
+    "host": "web.guoguolv.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "guoguolv.cn",
+      "url": "https://guoguolv.cn/",
+      "label": "胡桃云(Hutao)",
+      "apex": "guoguolv.cn",
+      "kind": null,
+      "identity": "pmgqqfht/page-e3c439e769b535f87e6ab146"
+    },
+    {
+      "host": "999ew.cn",
+      "url": "https://999ew.cn/",
+      "label": "魔戒",
+      "apex": "999ew.cn",
+      "kind": null,
+      "identity": "vxspeg9bv/page-0b84603d0eb599eaf789f1cd"
+    },
+    {
+      "host": "bggdjp.cn",
+      "url": "https://bggdjp.cn/",
+      "label": "魔戒",
+      "apex": "bggdjp.cn",
+      "kind": null,
+      "identity": "pwk8xwvp/page-6c4e6880f26af3a8a6cfcca5"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "c2661fa5f0612e52f02e108873393671d44cf56851523fe096544d4d1d5dcb4b",
+    "sitemap.xml": "bf09c602c9e7149361cde72b8d2ed7ee2cfbbcb6ca1dc2761d53ac938085e2c7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "354a77fdb580475f984b6fdc3713a616bf54a1f05c14fb54cdb52e685e7aa174",
+    "robots.txt": "023d623f2eeee1cb2768e6515ada6f443482fe4000f20fd4c5020643a4505e84",
+    "6ffd5698870e7ee563f82e824f11ac9c.txt": "62e858ed1ff0684f43f571988210eeee7e281de657e3c5703ba123edbe9b957f"
+  },
+  "revision": "ab992074c6aab79fe322e3ccbb1d3eb8ea665668f790fc0504ea6f1896d61891"
+}
